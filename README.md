@@ -25,10 +25,10 @@ Navigate to the project directory:
 cd django-crm-app
 ```
 Create a virtual environment and activate it:
-bash
-
+```
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env\Scripts\activate
+```
 
 Install the dependencies:
 ```
